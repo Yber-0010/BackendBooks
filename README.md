@@ -1,2 +1,2 @@
 # BOOKS API
-custom by my-galeria.com
+custom by mi-galeria.com
